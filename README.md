@@ -11,4 +11,4 @@ Com funcionalidades como:
   - Envio de notificações quando um usuário entrar, sair ou escrever na janela atual
   - Recuperação de mensagens anteriores da sala ao acessá-la
   
-As tecnologias usadas para esta realização foram: Node, Sequelize, Express, Bcrypt, Cors.
+As tecnologias usadas para sua realização foram: Node, Sequelize, Express, Bcrypt, Cors.
