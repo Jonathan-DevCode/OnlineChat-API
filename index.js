@@ -41,9 +41,9 @@ app.use("/", message_controller);
 
 app.listen(2222, function (error) {
     if(error) {
-		console.log("Shit had get real");
+		console.log("Error in connection");
 	} else {
-		console.log("Shake that money");
+		console.log("Connected successfully");
 	};
 });
 
